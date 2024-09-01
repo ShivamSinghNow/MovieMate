@@ -1,0 +1,21 @@
+movieId,title,year,Action,Adventure,Animation,Children,Comedy,Crime,Drama,Fantasy,Horror,Romance,Thriller
+1,toy story,1995,0,1,1,1,1,0,0,1,0,0,0
+2,jumanji,1995,0,1,0,1,0,0,0,1,0,0,0
+3,grumpier old men,1995,0,0,0,0,1,0,0,0,0,1,0
+4,waiting to exhale,1995,0,0,0,0,1,0,1,0,0,1,0
+5,father of the bride part ii,1995,0,0,0,0,1,0,0,0,0,0,0
+6,heat,1995,1,0,0,0,0,1,0,0,0,0,1
+7,sabrina,1995,0,0,0,0,1,0,0,0,0,1,0
+8,tom and huck,1995,0,1,0,1,0,0,0,0,0,0,0
+9,sudden death,1995,1,0,0,0,0,0,0,0,0,0,0
+10,goldeneye,1995,1,1,0,0,0,0,0,0,0,0,1
+11,american president the,1995,0,0,0,0,1,0,1,0,0,1,0
+12,dracula dead and loving it,1995,0,0,0,0,1,0,0,0,1,0,0
+13,balto,1995,0,1,1,1,0,0,0,0,0,0,0
+14,nixon,1995,0,0,0,0,0,0,1,0,0,0,0
+15,cutthroat island,1995,1,1,0,0,0,0,0,0,0,1,0
+16,casino,1995,0,0,0,0,0,1,1,0,0,0,0
+17,sense and sensibility,1995,0,0,0,0,0,0,1,0,0,1,0
+18,four rooms,1995,0,0,0,0,1,0,0,0,0,0,0
+19,ace ventura when nature calls,1995,0,0,0,0,1,0,0,0,0,0,0
+20,money train,1995,1,0,0,0,1,1,1,0,0,0,1
